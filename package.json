@@ -1,0 +1,27 @@
+{
+  "name": "ix-saffron",
+  "version": "0.2.3",
+  "description": "A simple sass mixin library for animations and transitions.",
+  "main": "index.js",
+  "style": "saffron/saffron.scss",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infoxchange/saffron.git"
+  },
+  "keywords": [
+    "sass",
+    "animations"
+  ],
+  "author": "JC <j@colindres.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infoxchange/saffron/issues"
+  },
+  "homepage": "https://github.com/infoxchange/saffron#readme"
+}
